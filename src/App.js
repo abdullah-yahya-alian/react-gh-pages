@@ -12,6 +12,13 @@ class App extends Component {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
+<table>
+            <caption>if yo want to add your name create new row :)</caption>
+            <thead><tr><td>name</td><td>email</td></tr></thead>
+            <tbody><tr><td>abdullah yahya alian</td><td>ayahya868@gmail.com</td></tr></tbody>
+            </table>
+
+
         </p>
       </div>
     );
